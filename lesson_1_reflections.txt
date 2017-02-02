@@ -1,0 +1,6 @@
+It distinguished different lines 
+Allow me to go back to earlier stages 
+It allows me to logically make progress with the program
+Git is more designed for programming
+git log shows the list of changes I have made while git diff compares two different commmits 
+You can always go back to a previous version 
